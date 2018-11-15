@@ -356,7 +356,7 @@ sessionStorage.removeItem("currentUser");
 
 <h3 style="text-align: center">To help you along, here is a visualization of the features, and behaviors of the application to get you started.</h3>
 
-<video style="margin-left:25%; margin-top: 5%;" width="50%" height="auto" controls>
-  <source src="./MissionControl.mp4" type="video/mp4">
-</video>
+
+!video[](./MissionControl.mp4)
+
 
